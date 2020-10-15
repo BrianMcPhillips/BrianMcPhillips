@@ -9,3 +9,10 @@ It would be great to collab on a project, feel free to contact me on Linkedin wi
 
 - ⚡ Fun fact: I am also a professional audio engineer with an interest in vintage recording equipment
 
+- 💻 Tech Stack: 
+Programming Languages: JavaScript, HTML/CSS
+Frameworks & Libraries: React.js, Node.js, Express.js
+Unit Testing: QUnit, JEST
+Databases: PostgreSQL
+Tools: GitHub, Git, Netlify, Postman, Heroku, PGAdmin 
+
